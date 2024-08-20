@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\frm_etudiant.o
+./debug\frm_matiere.o
+./debug\frm_classe.o
+./debug\frm_note.o
+./debug\model_etudiant.o
+./debug\model_matiere.o
+./debug\model_classe.o
+./debug\model_note.o
+./debug\model_connexion.o
+./debug\moc_frm_etudiant.o
+./debug\moc_frm_matiere.o
+./debug\moc_frm_classe.o
+./debug\moc_frm_note.o
+);

@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\frm_etudiant.o
+./release\frm_matiere.o
+./release\frm_classe.o
+./release\frm_note.o
+./release\model_etudiant.o
+./release\model_matiere.o
+./release\model_classe.o
+./release\model_note.o
+./release\model_connexion.o
+./release\moc_frm_etudiant.o
+./release\moc_frm_matiere.o
+./release\moc_frm_classe.o
+./release\moc_frm_note.o
+);
